@@ -49,43 +49,29 @@ ________________________________________
 
 ________________________________________
 📂 Project Structure
-
+```
 PlayWrightHYB/
-
 ├── tests/
-
 │   └── login.spec.ts
 │
-
 ├── src/
-
 │   ├── pages/
-
 │   │   ├── LoginPage.ts
-
 │   │   ├── PimPage.ts
-
 │   │   ├── UserPage.ts
-
 │   │   └── LogoutPage.ts
-
 │   │
 │   └── utils/
-
 │       └── excelutil.ts
-
 │
 ├── testdata.xlsx
-
 ├── playwright.config.ts
-
 ├── package.json
-
 ├── tsconfig.json
-
 └── README.md
 
-________________________________________
+```
+_____________________________________
 📊 Data-Driven Testing (Excel)
 
 Excel Columns:
